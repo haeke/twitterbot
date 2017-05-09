@@ -15,7 +15,8 @@
 # Deploying the App
   1. Create a json package file by running command - npm init
   2. Install twit depenency by running command - npm install --save twit ( --save adds twit to the dependencies list )
-    ```
+  -
+  ```
      {
         "name": "example1",
         "version": "1.0.0",
