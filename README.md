@@ -32,5 +32,6 @@
          }
     }
     ```
+    3. Run the code by running command - node <filename>.js
 
 
